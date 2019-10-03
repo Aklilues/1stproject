@@ -1,0 +1,13 @@
+/.repository/
+/american-DEV.properties
+/american_flight_api.raml
+/american_flight_dataType.raml
+/american_flight_example.raml
+/examples/
+/global.xml
+/implementaion.xml
+/interface.xml
+/lib/
+/log4j2.xml
+/mule-app.properties
+/mule-deploy.properties
